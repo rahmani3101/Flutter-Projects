@@ -1,16 +1,6 @@
-# animation
+# Animation
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A  Flutter app with a button that animates a Container's width, height, and colour over
+a period of 1 second when pressed. The container should iniƟally have a width and height of
+100.0 and a colour of red. When the buƩon is pressed, the container should animate to a width
+of 200.0, height of 200.0, and colour of blue
