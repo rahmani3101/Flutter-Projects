@@ -101,7 +101,7 @@ A comprehensive collection of Flutter applications demonstrating various functio
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/rahmani3101/Flutter-Projects.git
 ```
 
 2. Navigate to desired project directory
